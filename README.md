@@ -10,14 +10,12 @@ Actualmente trabajo en el desarrollo de SEVICELL PRO, un sistema
 de gestión empresarial que integra inventario, ventas,
 reparaciones y gestión de créditos.
 
-## 🛠️ Tecnologías
+## 🛠️ Stack técnico
 
-- C#
-- .NET
+- C# / .NET
 - WPF
-- ASP.NET
+- ASP.NET Core
 - Entity Framework Core
-- LINQ
 - SQL Server
 - Git
 
@@ -35,11 +33,3 @@ Sistema de gestión empresarial (WPF/.NET) para negocios de venta y
 reparación de celulares: inventario, ventas, reparaciones y créditos.
 En uso comercial activo.
 
-## 🛠️ Stack técnico
-
-- C# / .NET
-- WPF
-- ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Git
