@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Kelvin
 
-<!--
-**kold89/kold89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior C#/.NET Developer | SQL Server | WPF
 
-Here are some ideas to get you started:
+Estudiante de Ingeniería Informática con experiencia en desarrollo
+de aplicaciones empresariales utilizando C#, .NET, SQL Server,
+Entity Framework y WPF.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente trabajo en el desarrollo de SEVICELL PRO, un sistema
+de gestión empresarial que integra inventario, ventas,
+reparaciones y gestión de créditos.
+
+## 🛠️ Tecnologías
+
+- C#
+- .NET
+- WPF
+- ASP.NET
+- Entity Framework Core
+- LINQ
+- SQL Server
+- Git
+
+## 🚀 Actualmente aprendiendo
+
+- ASP.NET Core
+- REST APIs
+- Angular
+- TypeScript
+
+## 📌 Proyecto destacado
+
+### SEVICELL PRO
+Sistema de gestión empresarial para ventas, inventario,
+reparaciones y créditos.
