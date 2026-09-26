@@ -31,5 +31,15 @@ reparaciones y gestión de créditos.
 ## 📌 Proyecto destacado
 
 ### SEVICELL PRO
-Sistema de gestión empresarial para ventas, inventario,
-reparaciones y créditos.
+Sistema de gestión empresarial (WPF/.NET) para negocios de venta y
+reparación de celulares: inventario, ventas, reparaciones y créditos.
+En uso comercial activo.
+
+## 🛠️ Stack técnico
+
+- C# / .NET
+- WPF
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Git
