@@ -20,16 +20,13 @@ reparaciones y gestión de créditos.
 - Git
 
 ## 🚀 Actualmente aprendiendo
-
-- ASP.NET Core
 - REST APIs
-- Angular
-- TypeScript
+
 
 ## 📌 Proyecto destacado
 
 ### SEVICELL PRO
 Sistema de gestión empresarial (WPF/.NET) para negocios de venta y
 reparación de celulares: inventario, ventas, reparaciones y créditos.
-En uso comercial activo.
+
 
